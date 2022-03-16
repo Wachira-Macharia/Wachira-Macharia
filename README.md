@@ -1,4 +1,4 @@
-# Hi there, I'm Wachira Macharia 👋 
+# Hi there, I'm Wachira Macharia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm Developer!!
 
@@ -28,10 +28,10 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 ### GitHub Stats:
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wachira-Macharia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-
+<p align = "center">
+<img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wachira-Macharia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wachira-Macharia&hide=html&langs_count=8&layout=compact&theme=dark" alt="Wachira Macharia" height="165" />
+</p>
 
 [twitter]: https://twitter.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
