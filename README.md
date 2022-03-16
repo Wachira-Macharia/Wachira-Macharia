@@ -30,7 +30,7 @@
 ### GitHub Stats:
 <p align = "center">
 <img alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Wachira-Macharia&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wachira-Macharia&hide=html&langs_count=8&layout=compact&theme=dark" alt="Wachira Macharia"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wachira-Macharia&hide=html&langs_count=8&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="Wachira Macharia"/>
 </p>
 
 [twitter]: https://twitter.com/codeSTACKr
