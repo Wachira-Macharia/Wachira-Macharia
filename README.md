@@ -11,8 +11,8 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/combonieugene#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/combonieugene#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/eugene-wachira-a39b52156#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/eugene-wachira-a39b52156#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/eugenewachira#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/eugenewachira#gh-dark-mode-only)
@@ -28,7 +28,3 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <br>
 <p align = "center">
-
-[twitter]: https://twitter.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
