@@ -28,3 +28,24 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <br>
 <p align = "center">
+
+  ## 🔥 Languages + Platforms
+
+<p>
+    <img src="https://img.shields.io/badge/Java-000?style=for-the-badge&logo=Java&logoColor=white" />    
+    <img src="https://img.shields.io/badge/Reactjs-000?style=for-the-badge&logo=React&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Android-000?style=for-the-badge&logo=Android&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=Kotlin&logoColor=white" /> 
+ </p>
+
+
+<center>
+  <table>
+  <tr>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=Wachira-Macharia&count_private=true&show_icons=true&theme=dark&layout=compact" /></td>
+      <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wachira-Macharia&hide=html&layout=compact&theme=dark" /></td>      
+  </tr>   
+</table>
+</center>
+
+**Be Happy, Stay Happy**
