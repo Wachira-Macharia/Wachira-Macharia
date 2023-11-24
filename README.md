@@ -1,4 +1,5 @@
-# Hi there, I'm Wachira Macharia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, 
+# I'm Wachira Macharia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## A Web Developer!!
 
