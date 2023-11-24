@@ -1,10 +1,9 @@
-# Hi there, 
-# I'm Wachira Macharia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Wachira Macharia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## A Web Developer!!
+## A Software Developer!!
 
 - 🌱 I’m currently learning Javascript 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other devs
 - 🥅 2023 Goals: Learn more on Javascript Frameworks
 
 ### Connect with me:
@@ -14,9 +13,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/eugene-wachira-a39b52156#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/eugene-wachira-a39b52156#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/eugenewachira#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/eugenewachira#gh-dark-mode-only)
 
 ### Languages and Tools:
 
