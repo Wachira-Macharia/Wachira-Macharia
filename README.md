@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Javascript 🤣
 - 👯 I’m looking to collaborate with other devs
-- 🥅 2023 Goals: Learn more on Javascript Frameworks
+- 🥅 2024 Goals: Learn more Javascript Frameworks
 
 ### Connect with me:
 
